@@ -1,0 +1,7 @@
+# Archivo .gitignore
+
+# Excluir la carpeta __pycache__
+__pycache__/
+
+# Excluir el archivo de datos CSV generado por la simulación
+datos_transmilenio.csv
