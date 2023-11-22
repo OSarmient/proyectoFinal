@@ -5,3 +5,6 @@ __pycache__/
 
 # Excluir el archivo de datos CSV generado por la simulación
 datos_transmilenio.csv
+
+# Exlcuir entorno virutal de Python
+projenv/
