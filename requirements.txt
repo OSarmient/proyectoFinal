@@ -1,0 +1,7 @@
+pysd
+numpy
+parsimonious
+yapf
+scipy
+matplotlib
+netCDF4
